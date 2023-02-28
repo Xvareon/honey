@@ -1,4 +1,9 @@
-# Sample Snack app
+Honey Application
+by Rick Gavin Dela Cruz
+
+Application Development Project for 2nd Year 2nd Semester
+
+To-Do List App made with react native
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
